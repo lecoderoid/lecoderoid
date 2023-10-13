@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lecoderoid
-- 👀 I’m interested in programming and many other computer stuffs
+- 👀 I’m interested in programming, Linux/Unix systems and many other computer stuffs
 - 🌱 I’m currently learning C++, Rust and Web Development
 
 
