@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lecoderoid
-- 👀 I’m interested in programming, Linux/Unix systems and many other computer stuffs
-- 🌱 I’m currently learning C++, and Rust
+- 👀 I’m interested in programming, Linux/Unix systems, and many other computer things
+- 🌱 I’m currently learning C++ and Rust
 
 
 <!---
